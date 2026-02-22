@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,5.6bcloud.top
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,ticketone.it
 DOMAIN-SUFFIX,lyrion.org
+DOMAIN-SUFFIX,debian.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
