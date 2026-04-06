@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,volumio.workers.dev
 DOMAIN-SUFFIX,volumio.org
 DOMAIN-SUFFIX,volumio.com
+DOMAIN-SUFFIX,armbian.com
+DOMAIN-SUFFIX,fastlydns.net
+DOMAIN-SUFFIX,debian.map.fastlydns.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
